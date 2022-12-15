@@ -1,0 +1,4 @@
+## Comands
+``
+npm i
+``
